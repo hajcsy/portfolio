@@ -1,0 +1,223 @@
+.home {
+	border-radius: 10px;
+	background-color: #bb5ffd;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px 16px;
+}
+.ux-ui-design {
+	border-radius: 10px;
+	background-color: #35b55b;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px 16px;
+}
+.photography {
+	border-radius: 10px;
+	background-color: #3b80d6;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px 16px;
+}
+.video {
+	position: relative;
+	font-weight: 600;
+}
+.photography2 {
+	border-radius: 10px;
+	background-color: #ffff4c;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px 16px;
+}
+.graphic-design {
+	border-radius: 10px;
+	background-color: #f49c28;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px 16px;
+}
+.graphic-design2 {
+	border-radius: 10px;
+	background-color: #000;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px 16px;
+	color: #fff;
+}
+.navbar {
+	align-self: stretch;
+	background-color: rgba(0, 0, 0, 0.17);
+	height: 40px;
+	overflow: hidden;
+	flex-shrink: 0;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 8px;
+	box-sizing: border-box;
+	gap: 8px;
+}
+.hi-my-name-is-hajnal-veronika {
+	margin: 0;
+}
+.lorem-ipsum-dolor {
+	margin: 0;
+	font-weight: 500;
+	font-family: Poppins;
+}
+.hi-my-name-container {
+	align-self: stretch;
+	position: relative;
+}
+.introduction {
+	flex: 1;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 8px 279px 8px 16px;
+}
+.intro-child {
+	width: 172px;
+	position: relative;
+	height: 172px;
+	overflow: hidden;
+	flex-shrink: 0;
+	object-fit: cover;
+}
+.intro {
+	width: 1248px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding: 40px 16px;
+	box-sizing: border-box;
+	gap: 0px;
+	font-size: 16px;
+}
+.introduction1 {
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 8px;
+}
+.budapest {
+	margin: 0;
+	color: rgba(0, 0, 0, 0.51);
+}
+.mome-moholy-nagy-university-container {
+	position: relative;
+	font-weight: 500;
+}
+.mome {
+	flex: 1;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 26px 0px;
+}
+.roma-exchange-year {
+	margin: 0;
+	color: rgba(0, 0, 0, 0.5);
+}
+.universities {
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 100px;
+	font-family: Poppins;
+}
+.education {
+	align-self: stretch;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 0px 16px;
+	gap: 8px;
+}
+.mome1 {
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 26px 0px;
+}
+.universities1 {
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	font-family: Poppins;
+}
+.page-content {
+	align-self: stretch;
+	flex: 1;
+	background-color: rgba(0, 0, 0, 0.1);
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px;
+	gap: 40px;
+	font-size: 20px;
+	font-family: 'Space Mono';
+}
+.macbook-air-1 {
+	width: 100%;
+	position: relative;
+	background-color: #fff;
+	height: 2316px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px;
+	box-sizing: border-box;
+	gap: 8px;
+	text-align: left;
+	font-size: 14px;
+	color: #000;
+	font-family: Poppins;
+}
+
+
+body {
+	margin: 0;
+	line-height: normal;
+}
+
