@@ -1,323 +1,401 @@
 .home {
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: flex-start;
-  	justify-content: flex-start;
-  	padding: 8px 16px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px 16px;
 }
 .video {
-  	position: relative;
-  	font-weight: 600;
+	position: relative;
+	font-weight: 600;
 }
 .navbar {
-  	align-self: stretch;
-  	border-radius: 10px;
-  	background-color: #000;
-  	height: 40px;
-  	overflow: hidden;
-  	flex-shrink: 0;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: center;
-  	justify-content: flex-start;
-  	padding: 0px 8px;
-  	box-sizing: border-box;
-  	gap: 8px;
+	align-self: stretch;
+	border-radius: 10px;
+	background-color: #000;
+	height: 40px;
+	overflow: hidden;
+	flex-shrink: 0;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 0px 8px;
+	box-sizing: border-box;
+	gap: 8px;
 }
 .hajnal-veronika-meszaros {
-  	position: relative;
-  	font-size: 40px;
-  	font-family: Inkognito;
+	position: relative;
+	font-size: 40px;
+	font-family: Inkognito;
 }
 .portfolio-parent {
-  	align-self: stretch;
-  	height: 310px;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: center;
-  	justify-content: center;
-  	font-size: 100px;
+	align-self: stretch;
+	height: 310px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: 100px;
 }
 .hi-my-name-is-hajnal-veronika {
-  	margin: 0;
+	margin: 0;
 }
 .lorem-ipsum-dolor {
-  	margin: 0;
-  	font-weight: 500;
+	margin: 0;
+	font-weight: 500;
 }
 .hi-my-name-container {
-  	align-self: stretch;
-  	position: relative;
+	align-self: stretch;
+	position: relative;
 }
 .introduction {
-  	flex: 1;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: center;
-  	padding: 8px 0px;
+	flex: 1;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 8px 0px;
 }
 .intro-child {
-  	width: 172px;
-  	position: relative;
-  	height: 172px;
-  	overflow: hidden;
-  	flex-shrink: 0;
-  	object-fit: cover;
+	width: 172px;
+	position: relative;
+	height: 172px;
+	overflow: hidden;
+	flex-shrink: 0;
+	object-fit: cover;
 }
 .intro {
-  	width: 1248px;
-  	border-radius: 20px;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: center;
-  	justify-content: space-between;
-  	padding: 8px 16px;
-  	box-sizing: border-box;
-  	gap: 0px;
-  	font-size: 16px;
+	width: 1248px;
+	border-radius: 20px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding: 8px 16px;
+	box-sizing: border-box;
+	gap: 0px;
+	font-size: 16px;
 }
 .introduction1 {
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: center;
-  	padding: 8px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 8px;
 }
 .budapest {
-  	margin: 0;
-  	color: rgba(0, 0, 0, 0.51);
+	margin: 0;
+	color: rgba(0, 0, 0, 0.51);
 }
 .mome-moholy-nagy-university-container {
-  	position: relative;
-  	font-weight: 500;
+	position: relative;
+	font-weight: 500;
 }
 .mome {
-  	flex: 1;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: center;
-  	justify-content: flex-start;
-  	padding: 26px 0px;
+	flex: 1;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 26px 0px;
 }
 .metu {
-  	flex: 1;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: center;
-  	justify-content: center;
-  	padding: 26px 0px;
+	flex: 1;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 26px 0px;
 }
 .roma-exchange-year {
-  	margin: 0;
-  	color: rgba(0, 0, 0, 0.5);
+	margin: 0;
+	color: rgba(0, 0, 0, 0.5);
 }
 .universities {
-  	align-self: stretch;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: center;
-  	justify-content: center;
-  	gap: 100px;
-  	font-size: 20px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 100px;
+	font-size: 20px;
 }
 .education {
-  	align-self: stretch;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: center;
-  	padding: 0px 16px;
-  	gap: 8px;
+	align-self: stretch;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 0px 16px;
+	gap: 8px;
 }
 .hungarian-innovation-ecosystem {
-  	position: relative;
+	width: 688px;
+	position: relative;
+	display: inline-block;
 }
 .ni {
-  	align-self: stretch;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: center;
-  	text-align: center;
-  	font-size: 35px;
-  	color: #000;
-  	font-family: Poppins;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	text-align: center;
+	font-size: 35px;
+	color: #000;
+	font-family: Poppins;
 }
 .about-the-project {
-  	width: 614px;
-  	position: relative;
-  	display: inline-block;
+	width: 614px;
+	position: relative;
+	display: inline-block;
 }
 .the-hungarian-national-container {
-  	width: 614px;
-  	position: relative;
-  	font-size: 24px;
-  	display: inline-block;
+	align-self: stretch;
+	position: relative;
+	font-size: 24px;
 }
 .ux-design-wrapper {
-  	border-radius: 60px;
-  	background-color: #fff;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: flex-start;
-  	padding: 8px 32px;
+	border-radius: 60px;
+	background-color: #fff;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 8px 32px;
 }
 .frame-parent {
-  	align-self: stretch;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: flex-start;
-  	justify-content: flex-start;
-  	gap: 8px;
-  	text-align: center;
-  	font-size: 20px;
-  	color: #000;
-  	font-family: Poppins;
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 8px;
+	text-align: center;
+	font-size: 20px;
+	color: #000;
+	font-family: Poppins;
 }
 .intro-box {
-  	border-radius: 127.09px 0px 127.09px 0px;
-  	background-color: #170864;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: center;
-  	justify-content: center;
-  	padding: 40px 71px;
-  	gap: 11.1px;
+	align-self: stretch;
+	border-radius: 127.09px 0px 127.09px 0px;
+	background-color: #170864;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 40px 70px;
+	gap: 11.1px;
 }
-.macbook-air-2022 {
-  	position: absolute;
-  	top: 60.5px;
-  	left: 57px;
-  	width: 615.3px;
-  	height: 461.5px;
-  	object-fit: cover;
+.macbook-mockups-1 {
+	width: 553px;
+	position: relative;
+	max-height: 100%;
+	object-fit: cover;
 }
-.macbook-air-15-inch {
-  	position: absolute;
-  	top: 224.5px;
-  	left: -87px;
-  	width: 615.3px;
-  	height: 461.5px;
-  	object-fit: cover;
+.about-the-project-ni {
+	flex: 1;
+	height: 552px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	gap: 0px;
 }
-.macbook-air-2022-parent {
-  	width: 572px;
-  	position: relative;
-  	height: 745px;
+.about-the-project-ni-wrapper {
+	align-self: stretch;
+	height: 552px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: center;
 }
-.ni1 {
-  	flex: 1;
-  	height: 552px;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: center;
-  	justify-content: space-between;
-  	gap: 0px;
-}
-.ni-wrapper {
-  	align-self: stretch;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: flex-start;
-  	justify-content: center;
-}
-.screen-recording-2025-03-08-at {
-  	width: 579px;
-  	position: relative;
-  	border-radius: 8px;
-  	height: 417.6px;
-}
-.hajni {
-  	border-radius: 20px;
-  	background-color: #000;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: center;
-  	justify-content: center;
-  	padding: 10px;
-}
-.my-role {
-  	width: 614px;
-  	position: relative;
-  	font-weight: 600;
-  	display: inline-block;
+.niudark-2-icon {
+	flex: 1;
+	position: relative;
+	border-radius: 20px;
+	max-width: 100%;
+	overflow: hidden;
+	max-height: 100%;
+	object-fit: cover;
 }
 .intro-box1 {
-  	width: 552px;
-  	border-radius: 127.09px 0px 127.09px 0px;
-  	background-color: rgba(93, 61, 255, 0.5);
-  	height: 438px;
-  	overflow: hidden;
-  	flex-shrink: 0;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: flex-start;
-  	padding: 27.4px 54.8px;
-  	box-sizing: border-box;
+	align-self: stretch;
+	border-radius: 127.09px 0px 127.09px 0px;
+	background-color: rgba(93, 61, 255, 0.7);
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 40px 70px;
 }
-.ni2 {
-  	width: 1200px;
-  	height: 798px;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: flex-start;
-  	justify-content: space-between;
-  	gap: 0px;
+.spacious-layout-improved-read-wrapper {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+}
+.intro-box2 {
+	align-self: stretch;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+}
+.intro-box4 {
+	align-self: stretch;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+}
+.box3 {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 36px;
+	color: #170864;
+}
+.intro-box-parent {
+	align-self: stretch;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 40px;
+}
+.process-ni {
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 40px;
+	font-size: 24px;
+}
+.services-and-funding {
+	align-self: stretch;
+	position: relative;
+	color: rgba(23, 8, 100, 0.5);
+}
+.dynamic-ui-instead-of-pop-up-wrapper {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+}
+.intro-box8 {
+	align-self: stretch;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	align-content: flex-start;
+}
+.box31 {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	font-size: 24px;
+}
+.frame-group {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 20px;
+}
+.screen-recording-2025-03-08-at {
+	width: 579px;
+	position: relative;
+	border-radius: 8px;
+	height: 417.6px;
+}
+.hajni {
+	border-radius: 20px;
+	background-color: #000;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+}
+.my-role {
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 20px;
+	color: #170864;
 }
 .education3 {
-  	align-self: stretch;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: center;
-  	padding: 0px 16px;
-  	font-size: 30px;
-  	color: #fff;
-  	font-family: Inter;
+	align-self: stretch;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 0px 16px;
+	gap: 40px;
+	font-size: 30px;
+	color: #fff;
+	font-family: Inter;
 }
 .page-content {
-  	align-self: stretch;
-  	flex: 1;
-  	background-color: #fff;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: center;
-  	justify-content: flex-start;
-  	padding: 8px;
-  	gap: 8px;
-  	font-size: 35px;
-  	color: #000;
+	align-self: stretch;
+	flex: 1;
+	background-color: #fff;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 8px;
+	gap: 8px;
+	font-size: 35px;
+	color: #000;
 }
 .macbook-air-15 {
-  	width: 100%;
-  	position: relative;
-  	background-color: #fff;
-  	height: 3971px;
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: flex-start;
-  	padding: 16px;
-  	box-sizing: border-box;
-  	text-align: left;
-  	font-size: 16px;
-  	color: #fff;
-  	font-family: Poppins;
+	width: 100%;
+	position: relative;
+	background-color: #fff;
+	height: 3971px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 16px;
+	box-sizing: border-box;
+	text-align: left;
+	font-size: 16px;
+	color: #fff;
+	font-family: Poppins;
 }
 

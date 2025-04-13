@@ -1,0 +1,387 @@
+.home1 {
+  	position: relative;
+  	font-weight: 600;
+}
+.home {
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 8px 16px;
+}
+.navbar {
+  	align-self: stretch;
+  	border-radius: 10px;
+  	background-color: #000;
+  	height: 40px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 8px;
+  	box-sizing: border-box;
+  	gap: 8px;
+}
+.hungarian-innovation-ecosystem {
+  	width: 688px;
+  	position: relative;
+  	display: inline-block;
+}
+.ni {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	text-align: center;
+  	font-size: 35px;
+  	color: #000;
+  	font-family: Poppins;
+}
+.about-the-project {
+    width: 614px;
+    position: relative;
+    display: inline-block;
+}
+.the-hungarian-national {
+    margin: 0;
+}
+.the-hungarian-national-container {
+    align-self: stretch;
+    position: relative;
+    font-size: 24px;
+}
+.ux-design {
+    position: relative;
+    font-weight: 500;
+}
+.bubble1 {
+    border-radius: 60px;
+    background-color: #fff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 32px;
+}
+.bubbles {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-family: Poppins;
+}
+.about-texts {
+    align-self: stretch;
+    border-radius: 127.09px 0px 127.09px 0px;
+    background-color: #170864;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 60px;
+    gap: 11.1px;
+}
+.macbook-mockups-1 {
+    width: 553px;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+}
+.about-the-project-ni {
+    flex: 1;
+    height: 552px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0px;
+}
+.about {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family: Inter;
+}
+
+
+.probem-pain {
+  	align-self: stretch;
+  	position: relative;
+}
+.clickable-and-non-clickable {
+  	margin-bottom: 0px;
+}
+.clickable-and-non-clickable-el {
+  	margin: 0;
+  	font-family: inherit;
+  	font-size: inherit;
+  	padding-left: 32px;
+}
+.problem-description {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 20px;
+}
+.old-ui-1 {
+  	width: 275px;
+  	position: relative;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.old-map-pictures-box {
+  	flex: 0.9472;
+  	border-radius: 20px;
+  	background-color: #170864;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 16px;
+  	gap: 16px;
+}
+.description-and-pictures {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 20px;
+  	font-size: 24px;
+}
+.problem-and-pain-points {
+  	flex: 1;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 20px 0px;
+  	gap: 32px;
+}
+.problem {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+}
+.our-goal-was {
+  	width: 1200px;
+  	position: relative;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.goal {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	flex-wrap: wrap;
+  	align-content: center;
+  	padding: 20px 0px;
+}
+.niudark-2-icon {
+  	flex: 1;
+  	position: relative;
+  	border-radius: 20px;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.intro-box {
+  	align-self: stretch;
+  	border-radius: 127.09px 0px 127.09px 0px;
+  	background-color: rgba(93, 61, 255, 0.7);
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 40px 70px;
+}
+.point1 {
+  	align-self: stretch;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.point3 {
+  	align-self: stretch;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+}
+.general-points {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 32px;
+  	color: #170864;
+}
+.intro {
+  	align-self: stretch;
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 40px;
+}
+.process-ni {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 20px 0px;
+  	gap: 40px;
+  	font-size: 24px;
+  	color: #fff;
+}
+.title {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	font-size: 30px;
+}
+.my-role-summary {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.dynamic-ui-instead-of-pop-up-wrapper {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.intro-box4 {
+  	align-self: stretch;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	flex-wrap: wrap;
+  	align-content: flex-start;
+}
+.box3 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 8px;
+}
+.my-role-points {
+  	flex: 1;
+  	height: 546px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+}
+.screen-recording-2025-03-08-at {
+  	width: 579px;
+  	position: relative;
+  	border-radius: 8px;
+  	height: 417.6px;
+}
+.services-and-founding-offortun {
+  	flex: 0.967;
+  	border-radius: 20px;
+  	background-color: #000;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+}
+.my-role-points-and-video {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 20px;
+}
+.my-role {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 20px 0px;
+  	gap: 20px;
+  	font-size: 24px;
+}
+.page-content {
+  	width: 1248px;
+  	flex: 1;
+  	background-color: #fff;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 40px 8px;
+  	box-sizing: border-box;
+  	gap: 60px;
+  	font-size: 30px;
+  	color: #170864;
+  	font-family: Inter;
+}
+.macbook-air-17 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 3971px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 16px;
+  	box-sizing: border-box;
+  	text-align: left;
+  	font-size: 16px;
+  	color: #fff;
+  	font-family: Poppins;
+}
+
