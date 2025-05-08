@@ -1,190 +1,100 @@
-
-.introduction {
-    width: 100%;
+.b {
     position: relative;
-    border-radius: 20px;
-    overflow: hidden;
+    line-height: 148.11%;
+    font-size: 60px;
+}
+.about {
+    position: relative;
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #000;
+    text-align: left;
+}
+.parent {
+    align-self: stretch;
+    flex: 1;
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-content: center;
-    padding: 40px 0px;
-    box-sizing: border-box;
-    gap: 100px 0px;
-    text-align: justify;
-    font-size: 150px;
-    color: #000;
-    font-family: 'Space Mono';
-    }
-
-    .hi {
-        width: 100%;
-        position: relative;
-        font-size: 150px;
-        display: inline-block;
-        font-family: 'Space Mono';
-        color: #000;
-        text-align: justify;
-        line-height: 60%;
-        margin: 0;
-        }
-
-    .introduction-text {
-            flex: 1;
-            width: 100%;
-            position: relative;
-            overflow: hidden;
-            flex-shrink: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            justify-content: center;
-            padding: 8px 0px;
-            box-sizing: border-box;
-            text-align: justify;
-            font-size: 16px;
-            color: #000;
-            font-family: Poppins;
-            line-height: normal;
-            align-self: stretch;
-
-            }
-
-.b {
-  	align-self: stretch;
-  	position: relative;
-  	line-height: 80%;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 100px;
 }
-.year {
-  	overflow: hidden;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: center;
-  	justify-content: flex-start;
-  	padding: 8px;
-  	gap: 0px;
-}
-.university-name {
-  	width: 378.7px;
-  	position: relative;
-  	display: inline-block;
-}
-.course-name {
-  	width: 378.7px;
-  	position: relative;
-  	font-size: 16px;
-  	font-weight: 500;
-  	font-family: Poppins;
-  	color: #000;
-  	display: inline-block;
-}
-.name-and-course {
-  	align-self: stretch;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: flex-start;
-  	justify-content: center;
-  	gap: 8px;
-}
-.location {
-  	align-self: stretch;
-  	position: relative;
-  	font-size: 16px;
-  	font-weight: 500;
-  	font-family: Poppins;
-  	color: rgba(0, 0, 0, 0.6);
-}
-.uni-course-location {
-  	flex: 1;
-  	display: flex;
-  	flex-direction: column;
-  	align-items: center;
-  	justify-content: flex-start;
-  	gap: 4px;
-  	text-align: left;
-  	font-size: 20px;
-  	color: #0f03ff;
-    line-height: 80%;
-    
-}
-.university-box
- {
-  	width: 100%;
-  	position: relative;
-  	height: 84px;
-  	display: flex;
-  	flex-direction: row;
-  	align-items: center;
-  	justify-content: center;
-  	padding: 8px 0px;
-  	box-sizing: border-box;
-  	gap: 8px;
-  	text-align: justify;
-  	font-size: 36px;
-  	color: #000;
-  	font-family: 'Space Mono';
-}
-
-body {
+.the-hungarian-national {
     margin: 0;
-    line-height: normal;
-    }
-
-.education-boxes {
+}
+.the-hungarian-national-container {
+    width: 599px;
+    position: relative;
+    font-family: Inter;
+    color: #000;
+    display: inline-block;
+    height: 178px;
+    flex-shrink: 0;
+}
+.ux-design {
+    position: relative;
+    font-weight: 500;
+}
+.bubble1 {
+    border-radius: 60px;
+    background-color: #0101ff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 32px;
+}
+.bubbles {
+    width: 614px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    text-align: center;
+    color: #fff;
+    font-family: Poppins;
+}
+.frame-group {
+    flex: 1;
+    height: 356px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.macbook-mockups-1 {
+    width: 528px;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+}
+.macbook-mockups-1-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: -144px;
+    position: relative;
+}
+.frame-parent {
     width: 100%;
     position: relative;
     display: flex;
-    flex-direction: column;
-    align-items: left;
-    justify-content: flex-start;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
     text-align: justify;
-    font-size: 36px;
-    color: #000;
+    font-size: 20px;
+    color: #0f03ff;
     font-family: 'Space Mono';
-    line-height: 0px;
 }
 
-h2 {
-    width: 100%;
-    position: relative;
-    font-size: 38px;
-    display: inline-block;
-    font-family: Poppins;
-    color: #000;
-    text-align: left;
-    }
-
- .page-content {
-        width: 100%;
-        height: 100%;
-        position: relative;
-        overflow: hidden;
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-        padding: 20px 8px;
-        box-sizing: border-box;
-        text-align: justify;
-        font-size: 16px;
-        color: #000;
-        font-family: 'Space Mono';
-      }
-
-
-
-   body  {
-    margin: 20px;
-   }
-
-   h1{
-    margin-block-end: 100px;
-    margin-block-start: 100px;
-   }
-
-
-   .pixel-1 {
+.pixel-1 {
     position: absolute;
     top: 18.75px;
     left: 26px;
@@ -396,7 +306,19 @@ h2 {
 }
 .about {
     position: relative;
+    font-size: 16px;
+    color: #fff;
 }
+
+.about-active {
+    position: relative;
+    font-size: 16px;
+    color: #000;
+
+}
+
+
+
 .default {
     overflow: hidden;
     display: flex;
@@ -404,6 +326,7 @@ h2 {
     align-items: flex-start;
     justify-content: flex-start;
     padding: 8px 16px;
+    color: #fff;
 }
 .active {
     border-radius: 100px;
@@ -437,7 +360,6 @@ h2 {
     padding: 8px 4px;
     gap: 8px;
 }
-
 .navbar-parent {
     width: 95%;
     position: fixed;
@@ -464,57 +386,39 @@ a {
   }
 
 
-  form {
-    max-width: 400px;
-    
-    font-family: poppins;
-  }
-  input, textarea {
-    width: 100%;
-    padding: 10px;
-    margin-top: 5px;
-    margin-bottom: 15px;
-    margin-left: 0;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-    
-  }
-  button {
-    background-color: #0101FF;
-    color: white;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  button:hover {
-    background-color: #0101FF;
-  }
-
-  .form-box {
+  .b {
+    position: relative;
+    line-height: 148.11%;
+}
+.about-the-project {
+    position: relative;
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #000;
     text-align: left;
-  margin-left: 0;
-  padding: 20px;
-
-  }
-
-  .frame-child {
-    width: 70px;
-    position: relative;
-    height: 1192px;
-    object-fit: contain;
 }
-.ni {
+.parent {
     align-self: stretch;
-    position: relative;
-    line-height: 80px;
-    font-family: 'Space Mono';
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 100px;
 }
-.hungarian-national-innovation {
-    width: 274px;
+.the-hungarian-national {
+    margin: 0;
+    font-family: poppins;
+}
+.about-introduction {
+    width: 599px;
     position: relative;
-    font-size: 16px;
+    font-family: poppins;
+    color: #000;
     display: inline-block;
+    height: 178px;
+    flex-shrink: 0;
 }
 .ux-design {
     position: relative;
@@ -522,7 +426,7 @@ a {
 }
 .bubble1 {
     border-radius: 60px;
-    background-color: #000;
+    background-color: #0101ff;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -531,96 +435,89 @@ a {
     padding: 8px 32px;
 }
 .bubbles {
-    align-self: stretch;
+    width: 614px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
     justify-content: flex-start;
     gap: 8px;
     text-align: center;
-    font-size: 20px;
-    color: #fff;
-}
-.ni-parent {
-    width: 418px;
-    border-radius: 20px;
-    background-color: #0101ff;
-    height: 418px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    padding: 79px 40px;
-    box-sizing: border-box;
-    gap: 20px;
-    font-size: 100px;
-}
-.mercedes-parent {
-    width: 418px;
-    border-radius: 20px;
-    background-color: #0101ff;
-    height: 418px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    padding: 79px 40px;
-    box-sizing: border-box;
-    gap: 20px;
-}
-.art {
-    margin: 0;
-}
-.art-versum {
-    position: relative;
-    line-height: 44px;
-    font-family: 'Space Mono';
-}
-.silent-disco {
-    align-self: stretch;
-    position: relative;
-    line-height: 80%;
-    font-family: 'Space Mono';
-}
-.frame-group {
-    flex: 1;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    align-content: center;
-    gap: 49px;
-    
-}
-.frame-parent {
-    flex: 1;
-    width: 100%;
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: center;
-    padding: 140px 20px;
-    box-sizing: border-box;
-    gap: 117px;
-    text-align: left;
-    font-size: 67px;
     color: #fff;
     font-family: Poppins;
+}
+
+.about-introduction {
+    flex: 1;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+    font-family: poppins;
+}
+.macbook-mockups-1 {
+    width: 528px;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+}
+.macbook-mockups-1-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0px;
+    position: relative;
+}
+.frame-parent {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: justify;
+    font-size: 20px;
+    color: #0f03ff;
+    font-family: 'Space Mono';
     
 }
 
-.uxui {
-    width: 1192px;
-    position: relative;
-    font-size: 100px;
-    text-transform: uppercase;
-    display: inline-block;
-    font-family: 'Space Mono';
-    color: #000;
-    text-align: right;
-    offset-rotate: 90;
-    }
+body {
+    margin-top: 120px;
+    margin-left: 40px;
+    align-content: center;
+}
 
-    
+.page-content {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px 8px;
+    box-sizing: border-box;
+    text-align: justify;
+    font-size: 16px;
+    color: #000;
+    font-family: 'Space Mono';
+  }
+
+  .problem-parent {
+
+    align-items: left;
+  }
+
+  .bullet-points {
+    font-family: poppins;
+    color: #000;
+    font-size: 20px;
+
+  }
+
+  
